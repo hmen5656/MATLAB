@@ -1,1 +1,4 @@
-based on tomography principle , calculated projection and back projection equation for any 2D matris such as Pictures.
+with rrespect to medical imaging(tomography) fundamentals  , i have calculated projection and back projection equation for any 2D matris such as Pictures.
+
+for example after projection of matris which is tomo.png im  collecting alldatas from equationafter that with back prrojection i'm  re constructing same image again .
+there is somee details on EE415-Lecture1.pdf after  page 10.
