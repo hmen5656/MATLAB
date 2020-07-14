@@ -1,0 +1,1 @@
+based on tomography principle , calculated projection and back projection equation for any 2D matris such as Pictures.
